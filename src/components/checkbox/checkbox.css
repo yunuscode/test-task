@@ -1,0 +1,9 @@
+.checkbox .checkbox-input:checked ~ .checkbox-component {
+    background-color: #9D71FD;
+    border-color:#9D71FD;
+}
+
+.checkbox .checkbox-input:checked ~ .checkbox-component .checkbox-dot {
+    background-color: #FFFFFF;
+    transform: translateX(160%);
+}
