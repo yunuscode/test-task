@@ -15,7 +15,7 @@ const appsList: App[] = [
       top: true,
       left: true,
     },
-    category: "enterprise",
+    category: "medium",
   },
   {
     name: "Workday",
@@ -55,7 +55,7 @@ const appsList: App[] = [
       center: true,
       right: true,
     },
-    category: "medium",
+    category: "enterprise",
   },
   {
     name: "Zenefits",
