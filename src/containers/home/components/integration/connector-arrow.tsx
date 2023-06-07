@@ -58,8 +58,8 @@ export default function ConnectorArrow({
     <span className="absolute w-[26.5%] h-[calc(100%-0.43rem)] border-2 border-r-0 border-t-0 rounded-bl-xl -left-[26.5%] bottom-1/2">
       <span className="absolute w-full h-5 border-2 border-l-0 border-b-0 rounded-tr-xl -left-full bottom-full"></span>
       <span className="bg-violet-500"></span>
+      <span className="bg-violet-300"></span>
       <span className="border-violet-300"></span>
-
     </span>
   );
 }
