@@ -1,6 +1,6 @@
 import { useState } from "react";
 import ListItem from "./list-item";
-import HrImage from "../../../../assets/images/hr-image.png";
+import HrImage from "../../../../assets/images/hr-image.jpg";
 import appsList from "../../../../constants/integrationCompaniesList";
 
 export default function Integration() {
